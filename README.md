@@ -109,5 +109,6 @@ python cwru_tst.py
 - **하이퍼파라미터 튜닝** — d_model, num_layers 등에 대한 그리드 서치.
 
 
-  Dataset
-CWRU Bearing Dataset (Kaggle)
+## Dataset
+
+[CWRU Bearing Dataset (Kaggle)](https://www.kaggle.com/datasets/astrollama/cwru-case-western-reserve-university-dataset)

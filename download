@@ -1,0 +1,18 @@
+# 데이터 (용량 큼 - Kaggle에서 각자 받기)
+data/
+*.mat
+
+# 학습 결과
+results/*.pth
+*.pth
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db

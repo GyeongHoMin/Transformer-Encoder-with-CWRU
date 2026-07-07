@@ -107,3 +107,7 @@ python cwru_tst.py
 - **부하 조건별 일반화 검증** — 특정 부하(0/1/2 hp)로 학습 후 학습하지 않은 부하(3 hp)로 테스트.
 - **파일 단위 분할** — 겹친 윈도우로 인한 약한 정보 공유 제거.
 - **하이퍼파라미터 튜닝** — d_model, num_layers 등에 대한 그리드 서치.
+
+
+  Dataset
+CWRU Bearing Dataset (Kaggle)
